@@ -1,0 +1,112 @@
+--------------------------------------------------Python-------------------------------------------------------
+
+Python was founded in 1980's.
+The implementation of python was started in 1989 at CWI by GUIDO VAN ROSSUM in Netherland.
+He is a Dutch programmer.
+In Feb 1991, python was published with labeled version 0.9.0.
+In 1994, python 1.0 was released with new features like lambda, map, filters.
+In oct. 2000, python 2.0 was released with new features like exception handling and interfacing .
+In dec. 2008, python 3.0 also called as (py3k) was released to make python great again.
+  
+
+
+It is a gen. purpose high level programing lang.
+It is a versatile , used for various task such as web develp, data science and ML etc.
+
+
+
+----------------------------------Types of Python develpment(Modules)-----------------------------------------
+
+1- console App.
+2- Web. App.
+3- Data Science.
+4- Machine learning.
+5- Intelligence
+	5.1- Artificial Intelligence
+	5.2- perceptual Intelligence
+6- Automation
+
+
+web deveplopment libraries are flask, django etc.
+Another imp. libraries are Numpy, Matplotlib, pandas.
+
+----------------------------------------------About Python----------------------------------------------------
+
+It is Free and open source available at www.python.org.
+It is considered as scripting lang. but it is more than that.
+It is scalable, Object-oriented and functional programing lang.
+Increasingly Popular.
+Used by GOOGLE, NASA, REDDIT, FACEBOOK etc.
+It is an experiment that how much freedon developer need.
+Python is Highly case senstive and also a white space senstive.
+Python can be implement with other lang. like C, java and .Net etc.
+
+
+---------Compilers-------
+
+for c - Cpython
+for java - Jython
+for .Net - Iron python
+
+-----------Features of Python-------------
+
+Easy and Simple
+Expressive
+Interpreter lang.
+Cross platform lang.
+Object-oriented lang.
+Python has broad libraries which provide rich set of modules and function rapid app. development.
+
+--------------Working of Python Interpreter----------
+
+python interpreter works as REPL..
+
+R- Read 
+E- Evaluate
+P- Print
+L- Loop again
+
+--------------Numbers in Python--------------
+
+5, -4.0, 60 represent differently in terms of INT and FLOAT all comes down to saving memory storage.
+Using function type() we can determine the datatype of a value and a variable.
+Eg. type(5)   // o/p //--int
+    type(4.9)   // o/p //--float
+
+NOTE- all expression performs with float results=float.
+
+--------------Mathematical Operators----------------
+
++,-,/,*,%,**(Exponential),//(Integer Division)
+
+5/3   -> division always returns float in python 3.o
+for getting Int. value via division is //
+
+-----------------Comment--------------
+
+Using # we can comment the line, it is also called as single line comment
+
+ex- 5.0//3	#Return int but represent float.
+
+for multiple line comment we use """-----statement-----"""
+
+---------------Variables----------------
+
+Variables are like containers it can hold some data, pull it out later and perform some operations.
+It can hold all sort of data like BOOLEAN, STRING, NUMBERS, even DATA STRUCTURES too...
+
+ex -> 
+	>>>initial=80
+	>>>a=initial*2
+	>>>a
+	160
+
+we can assign more than one variable at a time by seperting with(,) respectively.
+
+ex -> x,y,z=10,20,30
+
+Rules----------
+
+1- first letter ------> (_) or alphabet
+2- Remaining letter---> alphabets/ (_) /Numbers  
+
