@@ -110,6 +110,72 @@ Rules----------
 1- first letter ------> (_) or alphabet
 2- Remaining letter---> alphabets/ (_) /Numbers  
 
+-----------Data Types---------------
 
 
+Every valid value have a datatype, few types are listed below.
+
+int
+float 
+boolean
+string
+list
+dictionary
+tuple
+set
+
+Write a program to demonstrate the swaping of variables (two or three) 
+
+>>>a,b,c=10,20,30
+>>>a,b,c=c,b,a
+>>>print(a)  // 30
+>>>print(b)  // 20
+>>>print(c)  // 10
+
+--------Dynamic Typing------------
+
+Python is highly flexible in reassigning variable with different datatype.
+other language like C, java, are statically typing because they might used to stuck their variable with particular datatype.
+
+In python value decide the type of variable.
+
+eg - 
+>>>a=10
+>>>type(a)
+>>>Int
+
+-------------converting Data type-------------
+
+We can convert variable explicitely using built in type as a function.
+for eg. float to int or int to float.
+
+>>>a=6.8
+>>>type(a)
+>>>float
+>>>a=int(a)
+>>>type(a)
+>>>Int
+
+
+-------------------------------------------------------------------------------
+
+---------------loops in Python-------------------
+The concept of looping in python is to iterate over an iterable objectthrough loop.
+
+There are two types of loops in python 
+
+1- for 
+2- While
+
+Syntex of for loop->
+
+for item in iterable_object:
+	#block of code
+	----
+	----
+	
+
+in syntex, for and in are keywords and item and iterable objects are userdefined.
+
+item is a new variable which is an iterator of a loop, it holds each value of iterable object one by one.
 
